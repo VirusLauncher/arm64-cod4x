@@ -1,4 +1,4 @@
-FROM box64-docker:latest
+FROM derpychap/box64-docker:latest
 
 LABEL author="Kris Dookharan" maintainer="krisdookharan15@gmail.com"
 
